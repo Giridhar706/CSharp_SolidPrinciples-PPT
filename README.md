@@ -81,3 +81,6 @@ This project demonstrates how applying SOLID principles leads to clean, maintain
 ---
 
 ## 📷 Sample Output
+
+<img width="667" height="488" alt="image" src="https://github.com/user-attachments/assets/b1f524ea-0e5e-40c6-81e4-e52f448a2193" />
+
